@@ -1,0 +1,11 @@
+
+SOMETHING WORTH NOTED
+I have a class variable (List actually) which initially was empty until I filled
+it up with data (48 elements). I then passed this variable to a method as param-
+eter but something strange happened: As I was reducing the element of param it 
+was taking effect on the class variable which I passed as well.
+Something I never knew it possible.
+
+Truth is learning has no end. And experience is the best teacher. I wouldn't have
+known this if I had not try different approach in solving a particular problem.
+
